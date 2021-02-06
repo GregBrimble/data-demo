@@ -1,0 +1,15 @@
+{
+  "main_module": "index.mjs",
+  "bindings": [
+    {
+      "type": "durable_object_namespace",
+      "name": "tables",
+      "namespace_id": "fb0402d87b96447f96b1d85d4bd58111"
+    },
+    {
+      "type": "kv_namespace",
+      "name": "KV",
+      "namespace_id": "8d970d572c094489bc38cc62108afde6"
+    }
+  ]
+}
